@@ -1,0 +1,26 @@
+name: Beer Girl Beauty
+accent: "#9f96c0"
+cursor: "#9f96c0"
+background: "#0D0D10"
+foreground: "#ffffff"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#0D0D10"
+    red:     "#a78181"
+    green:   "#F8CA6F"
+    yellow:  "#F3D59D"
+    blue:    "#9f96c0"
+    magenta: "#c79ec5"
+    cyan:    "#b1b8c4"
+    white:   "#F3E1E3"
+  bright:
+    black:   "#3e3e45"
+    red:     "#ceb6b6"
+    green:   "#ffebc4"
+    yellow:  "#fef8ee"
+    blue:    "#d3cee3"
+    magenta: "#e9d7e9"
+    cyan:    "#e5e7ec"
+    white:   "#ffffff"
